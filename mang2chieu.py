@@ -57,6 +57,7 @@ for j in range(n):#duyệt các pt theo đường ngang trong 1 hàng(cột)
        else: td+=A[i][j]
 print("tong các phan tu am cua hang",i+1,"la", ta)
 print("tong các phan tu duong cua hang",i+1,"la", td)
+
 #tìm vị trí k trong mảng 2 chiều
 m = int(input("nhap so hang: "))
 n = int(input("nhap so cot: "))
