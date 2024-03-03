@@ -49,4 +49,4 @@ Max=max(luyen)
 print(luyen)
 for i in range (n):
     if (luyen[i]==Max):
-       print(i)
+       print('Vi tri phan tu lon nhat',i)
